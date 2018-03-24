@@ -4,4 +4,5 @@
 #
 
 BOARD_SEPOLICY_DIRS += \
-    device/bliss/sepolicy/common
+    device/bliss/sepolicy/common/vendor \
+    device/bliss/sepolicy/common/private
